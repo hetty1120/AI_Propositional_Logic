@@ -1,13 +1,12 @@
 Readme!
-1.	Individual work
-2.	Work is done with python 3
-3.	Instruction on running projects:
+1.	Work is done with python 3
+2.	Instruction on running projects:
 
 For two python files (BMC.py & DPLL.py):
 1)	Run them in terminal;
 2)	The program will first ask the user how many sentences should be read as knowledge base, please type a number;
 3)	Follow the instruction showed on screen and type knowledge base (one sentence per line);
-4)	The screen will then show a sentence to ask user to type sentences which should be checked. One sentence per line and the program will give the answer immediately. When the check is done, please type ¡°END¡±.
+4)	The screen will then show a sentence to ask user to type sentences which should be checked. One sentence per line and the program will give the answer immediately. When the check is done, please type Â¡Â°ENDÂ¡Â±.
 
 Input format:
 Since program is sensitive to the format of the input, here is the input for four questions.
